@@ -1,6 +1,7 @@
 # SoundCloud Control
 
 A browser extension that lets you control the SoundCloud player without switching tabs.
+This is a modified version that supports communicating with a native connector.
 
 ![Screenshot](screenshot.png)
 
