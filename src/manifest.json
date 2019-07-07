@@ -17,7 +17,8 @@
   "permissions": [
     "https://soundcloud.com/*",
     "storage",
-    "tabs"
+    "tabs",
+    "nativeMessaging"
   ],
   "browser_action": {
     "browser_style": true,
